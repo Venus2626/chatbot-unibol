@@ -1,4 +1,12 @@
+Hay algo mal. Vamos a recrear el archivo desde cero.
+
+
+Abre: C:\Users\aball\chatbot-unibol\src\app\page.tsx con Bloc de notas
+Borra TODO
+Copia y pega ESTO (todo completo):
+
 "use client"
+
 import React, { useState, useRef, useEffect } from 'react';
 
 export default function ChatbotPage() {
